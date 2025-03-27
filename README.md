@@ -10,8 +10,9 @@
 [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) | 2024 | arxiv | \ |
 multimodal: | \ | \ | \ |
 [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108) | 2025 | NAACL | [code](https://github.com/franciscoliu/MLLMU-Bench?tab=readme-ov-file)
-[Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS)
-[PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545)
+[PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545) | 2025 | arxiv | \ |
+[Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS) | 2024 | TMLR | \ |
+
 
 ## multimodal LLM:
 [EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.67/) \
