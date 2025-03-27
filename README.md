@@ -2,15 +2,15 @@
 ## survey:
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
-[Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://openreview.net/forum?id=wUtCieKuQU) | 2025 | ICLR | |
+[Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://openreview.net/forum?id=wUtCieKuQU) | 2025 | ICLR | \
 [Digital forgetting in large language models: A survey of unlearning methods](https://link.springer.com/article/10.1007/s10462-024-11078-6) | 2025 | Artificial Intelligence Review | \
-[A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/html/2503.01854v1) 2025 | arxiv | \
+[A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/html/2503.01854v1) | 2025 | arxiv | \
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \
 [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024 | arxiv | \
 [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) | 2024 | arxiv | \
 
-multimodal: \
-[Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108) \
+multimodal:
+[Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108) | 2025 | NAACL | (https://github.com/franciscoliu/MLLMU-Bench?tab=readme-ov-file)
 [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS)
 [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545)
 
