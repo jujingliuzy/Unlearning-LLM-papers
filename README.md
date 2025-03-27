@@ -1,5 +1,5 @@
 # Unlearning-LLM-papers
-## survey:
+## Survey:
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
 [Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://openreview.net/forum?id=wUtCieKuQU) | 2025 | ICLR | \ |
@@ -14,8 +14,10 @@ Multimodal: | \ | \ | \ |
 [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS) | 2024 | TMLR | \ |
 
 
-## multimodal LLM:
-[EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.67/) \
+## Multimodal LLM:
+| Paper Title | Year | Venue | Code |
+| ------------- | ------------- | ------------- | ------------- |
+[EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.67/) | 2024 | EMNLP | \
 [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html)\
 [MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models](https://arxiv.org/abs/2502.11051) \
 [Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2502.15910) \
