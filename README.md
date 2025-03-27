@@ -1,8 +1,8 @@
 ### Unlearning-LLM-papers
 # survey:
-A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models \
-Digital forgetting in large language models: A survey of unlearning methods \
-Machine Unlearning for Traditional Models and Large Language Models: A Short Survey \
+A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models  
+Digital forgetting in large language models: A survey of unlearning methods  
+Machine Unlearning for Traditional Models and Large Language Models: A Short Survey  
 Machine unlearning in generative ai: A survey \
 RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models \
 Towards Effective Evaluations and Comparisons for LLM Unlearning Methods \
