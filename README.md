@@ -23,5 +23,7 @@ Multimodal: | \ | \ | \ |
 [EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.67/) | 2024 | EMNLP | \
 [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html) | 2024 | NIPS | \ 
 
-## medical LLM:
+## Medical LLM:
+| Paper Title | Year | Venue | Code |
+| ------------- | ------------- | ------------- | ------------- |
 [Medical large language models are vulnerable to data-poisoning attacks](https://www.nature.com/articles/s41591-024-03445-1) | 2024 | nature medicine | \
