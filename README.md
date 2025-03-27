@@ -8,7 +8,6 @@
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \ |
 [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024 | arxiv | \ |
 [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) | 2024 | arxiv | \ |
-
 multimodal: | \ | \ | \ |
 [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108) | 2025 | NAACL | [code](https://github.com/franciscoliu/MLLMU-Bench?tab=readme-ov-file)
 [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS)
