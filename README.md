@@ -1,8 +1,8 @@
 # Unlearning-LLM-papers
 ## survey:
-| Paper Title  | Year |
+| Paper Title | Year | Venue | Code |
 | ------------- | ------------- |
-[Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024
+[Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024 | arxiv |
 [Digital forgetting in large language models: A survey of unlearning methods](https://link.springer.com/article/10.1007/s10462-024-11078-6) \
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) \
 [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) \
