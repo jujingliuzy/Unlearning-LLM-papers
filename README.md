@@ -6,6 +6,7 @@
 [Digital forgetting in large language models: A survey of unlearning methods](https://link.springer.com/article/10.1007/s10462-024-11078-6) | 2025 | Artificial Intelligence Review | \ |
 [Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) | 2025 | Nature Machine Intelligence | \
 [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/html/2503.01854v1) | 2025 | arxiv | \ |
+[The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning](https://proceedings.mlr.press/v235/li24bc.html) | 2024 | ICML | [code](https://github.com/centerforaisafety/wmdp) 
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \ |
 [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024 | arxiv | \ |
 [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) | 2024 | arxiv | \ |
