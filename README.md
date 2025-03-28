@@ -4,6 +4,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 [Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://openreview.net/forum?id=wUtCieKuQU) | 2025 | ICLR | [code](https://github.com/tmlr-group/Unlearning-with-Control) |
 [Digital forgetting in large language models: A survey of unlearning methods](https://link.springer.com/article/10.1007/s10462-024-11078-6) | 2025 | Artificial Intelligence Review | \ |
+[Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) | 2025 | Nature Machine Intelligence | \
 [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/html/2503.01854v1) | 2025 | arxiv | \ |
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \ |
 [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024 | arxiv | \ |
@@ -16,7 +17,6 @@ Multimodal: | \ | \ | \ |
 ## LLM:
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
-[Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) | 2025 | Nature Machine Intelligence | \
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
 [TOFU: A Task of Fictitious Unlearning for LLMs](https://openreview.net/forum?id=P8seBluN3c) | 2024 | NeurIPS 2024 Workshop Red Teaming GenAI | \
 ## Multimodal LLM:
