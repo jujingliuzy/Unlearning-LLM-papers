@@ -16,6 +16,7 @@ Multimodal: | \ | \ | \ |
 ## LLM:
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
+[Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) | 2025 | Nature Machine Intelligence | \
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
 [TOFU: A Task of Fictitious Unlearning for LLMs](https://openreview.net/forum?id=P8seBluN3c) | 2024 | NeurIPS 2024 Workshop Red Teaming GenAI | \
 ## Multimodal LLM:
