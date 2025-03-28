@@ -23,6 +23,7 @@ Multimodal: | \ | \ | \ |
 Parameter-agnostic LLM unlearning: | \ | \ | \
 [In-Context Unlearning: Language Models as Few-Shot Unlearners](https://proceedings.mlr.press/v235/pawelczyk24a.html) | 2024 | ICML | \
 Parameter-tuning LLM unlearning: | \ | \ | \
+[Large Language Model Unlearning via Embedding-Corrupted Prompts](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d6359156e0e30b1caa116a4306b12688-Abstract-Conference.html) | 2024 | NIPS | \
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
 [Towards Safer Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.107/) | 2024 | Findings of the Association for Computational Linguistics: ACL | \
 [TOFU: A Task of Fictitious Unlearning for LLMs](https://openreview.net/forum?id=P8seBluN3c) | 2024 | NeurIPS 2024 Workshop Red Teaming GenAI | \
