@@ -22,6 +22,9 @@ Multimodal: | \ | \ | \ |
 [In-Context Unlearning: Language Models as Few-Shot Unlearners](https://proceedings.mlr.press/v235/pawelczyk24a.html) | 2024 | ICML | \
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
 [TOFU: A Task of Fictitious Unlearning for LLMs](https://openreview.net/forum?id=P8seBluN3c) | 2024 | NeurIPS 2024 Workshop Red Teaming GenAI | \
+[Who’s Harry Potter? Approximate Unlearning for LLMs](https://openreview.net/forum?id=PDct7vrcvT) | 2023 | arxiv | \
+
+
 ## Multimodal LLM:
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
