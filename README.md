@@ -13,6 +13,10 @@ Multimodal: | \ | \ | \ |
 [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545) | 2025 | arxiv | \ |
 [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS) | 2024 | TMLR | \ |
 
+## LLM:
+| Paper Title | Year | Venue | Code |
+| ------------- | ------------- | ------------- | ------------- |
+[Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
 
 ## Multimodal LLM:
 | Paper Title | Year | Venue | Code |
