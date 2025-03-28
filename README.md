@@ -1,7 +1,7 @@
 # Unlearning-LLM-papers
 ## Survey&Benchmark:
 | Paper Title | Year | Venue | Code |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | :-------------: | :-------------: | :-------------: |
 [Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://openreview.net/forum?id=wUtCieKuQU) | 2025 | ICLR | [code](https://github.com/tmlr-group/Unlearning-with-Control) |
 [Digital forgetting in large language models: A survey of unlearning methods](https://link.springer.com/article/10.1007/s10462-024-11078-6) | 2025 | Artificial Intelligence Review | \ |
 [Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) | 2025 | Nature Machine Intelligence | \
@@ -19,8 +19,9 @@ Multimodal: | \ | \ | \ |
 
 ## LLM:
 | Paper Title | Year | Venue | Code |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | :-------------: | :-------------: | :-------------: |
 [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720) | 2025 | ICLR | [code](https://github.com/wangyu-ustc/largescalewashing)
+[To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models] | 2024 | ICML | 
 [In-Context Unlearning: Language Models as Few-Shot Unlearners](https://proceedings.mlr.press/v235/pawelczyk24a.html) | 2024 | ICML | \
 [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d6359156e0e30b1caa116a4306b12688-Abstract-Conference.html) | 2024 | NIPS | [code](https://github.com/chrisliu298/llm-unlearn-eco)
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
@@ -32,7 +33,7 @@ Multimodal: | \ | \ | \ |
 
 ## Multimodal LLM:
 | Paper Title | Year | Venue | Code |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | :-------------: | :-------------: | :-------------: |
 [MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models](https://arxiv.org/abs/2502.11051) | 2025 | arxiv | \
 [Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2502.15910) | 2025 | arxiv | \
 [SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning](https://arxiv.org/abs/2502.12520) | 2025 |arxiv | \
@@ -41,5 +42,5 @@ Multimodal: | \ | \ | \ |
 
 ## Medical LLM:
 | Paper Title | Year | Venue | Code |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | :-------------: | :-------------: | :-------------: |
 [Medical large language models are vulnerable to data-poisoning attacks](https://www.nature.com/articles/s41591-024-03445-1) | 2024 | nature medicine | \
