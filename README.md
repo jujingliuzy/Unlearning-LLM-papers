@@ -20,7 +20,7 @@ Multimodal: | \ | \ | \ |
 ## LLM:
 | Paper Title | Year | Venue | Code |
 | ------------- | ------------- | ------------- | ------------- |
-[Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720) | 2025 | ICLR | \
+[Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720) | 2025 | ICLR | [code](https://github.com/wangyu-ustc/largescalewashing)
 [In-Context Unlearning: Language Models as Few-Shot Unlearners](https://proceedings.mlr.press/v235/pawelczyk24a.html) | 2024 | ICML | \
 [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d6359156e0e30b1caa116a4306b12688-Abstract-Conference.html) | 2024 | NIPS | [code](https://github.com/chrisliu298/llm-unlearn-eco)
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
