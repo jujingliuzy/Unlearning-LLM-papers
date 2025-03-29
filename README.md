@@ -23,6 +23,7 @@ Multimodal: | \ | \ | \ |
 [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108) | 2025 | NAACL | [code](https://github.com/franciscoliu/MLLMU-Bench?tab=readme-ov-file)
 [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545) | 2025 | arxiv | \ |
 [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS) | 2024 | TMLR | \ |
+[CLEAR: Character Unlearning in Textual and Visual Modalities](https://arxiv.org/abs/2410.18057) | 2024 |arxiv | [code](https://github.com/somvy/multimodal_unlearning)
 
 ## LLM:
 | Paper Title | Year | Venue | Code |
@@ -53,6 +54,7 @@ Multimodal: | \ | \ | \ |
 [SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning](https://arxiv.org/abs/2502.12520) | 2025 |arxiv | \
 [EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models](https://aclanthology.org/2024.emnlp-main.67/) | 2024 | EMNLP | \
 [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html) | 2024 | NIPS | \ 
+[Cross-Modal Safety Alignment: Is textual unlearning all you need?](https://arxiv.org/abs/2406.02575) | 2024 | arxiv | \
 
 ## Medical LLM:
 | Paper Title | Year | Venue | Code |
