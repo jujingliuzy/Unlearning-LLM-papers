@@ -1,5 +1,5 @@
 # Unlearning-LLM-papers
-## Survey&Benchmark:
+## Survey:
 | Paper Title | Year | Venue | Code |
 | ------------- | :-------------: | :-------------: | :-------------: |
 [Digital forgetting in large language models: A survey of unlearning methods](https://link.springer.com/article/10.1007/s10462-024-11078-6) | 2025 | Artificial Intelligence Review | \ |
@@ -32,6 +32,7 @@ Multimodal: | \ | \ | \ |
 [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d6359156e0e30b1caa116a4306b12688-Abstract-Conference.html) | 2024 | NIPS | [code](https://github.com/chrisliu298/llm-unlearn-eco)
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
 [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | [code](https://github.com/zjunlp/KnowUnDo?utm_source=catalyzex.com)
+[Dissecting Fine-Tuning Unlearning in Large Language Models](https://aclanthology.org/2024.emnlp-main.228/) | 2024 | EMNLP | [code](https://github.com/yihuaihong/Dissecting-FT-Unlearning)
 [Towards Safer Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.107/) | 2024 | Findings of the Association for Computational Linguistics: ACL | \
 [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://openreview.net/forum?id=MXLBXjQkmb#discussion) | 2024 | COLM | \
 [TOFU: A Task of Fictitious Unlearning for LLMs](https://openreview.net/forum?id=P8seBluN3c) | 2024 | NeurIPS 2024 Workshop Red Teaming GenAI | \
