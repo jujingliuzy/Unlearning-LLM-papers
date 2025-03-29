@@ -18,6 +18,7 @@
 [The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning](https://proceedings.mlr.press/v235/li24bc.html) | 2024 | ICML | [code](https://github.com/centerforaisafety/wmdp) 
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \ |
 [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | [code](https://github.com/zjunlp/KnowUnDo?utm_source=catalyzex.com)
+[Machine Unlearning of Pre-trained Large Language Models](https://aclanthology.org/2024.acl-long.457/) | 2024 | Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) | \
 Multimodal: | \ | \ | \ |
 [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108) | 2025 | NAACL | [code](https://github.com/franciscoliu/MLLMU-Bench?tab=readme-ov-file)
 [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545) | 2025 | arxiv | \ |
@@ -35,6 +36,7 @@ Multimodal: | \ | \ | \ |
 [Dissecting Fine-Tuning Unlearning in Large Language Models](https://aclanthology.org/2024.emnlp-main.228/) | 2024 | EMNLP | [code](https://github.com/yihuaihong/Dissecting-FT-Unlearning)
 [Towards Safer Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.107/) | 2024 | Findings of the Association for Computational Linguistics: ACL | \
 [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://openreview.net/forum?id=MXLBXjQkmb#discussion) | 2024 | COLM | \
+[Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=1AWLjICe5P) | 2024 | NeurIPS Workshop AFM | \
 [TOFU: A Task of Fictitious Unlearning for LLMs](https://openreview.net/forum?id=P8seBluN3c) | 2024 | NeurIPS 2024 Workshop Red Teaming GenAI | \
 [Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329) | 2024 | arxiv | \
 [RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models](https://arxiv.org/abs/2406.01983) | 2024 | arxiv | \
