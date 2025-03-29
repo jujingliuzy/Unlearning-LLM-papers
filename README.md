@@ -2,22 +2,26 @@
 ## Survey&Benchmark:
 | Paper Title | Year | Venue | Code |
 | ------------- | :-------------: | :-------------: | :-------------: |
-[Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://openreview.net/forum?id=wUtCieKuQU) | 2025 | ICLR | [code](https://github.com/tmlr-group/Unlearning-with-Control) |
 [Digital forgetting in large language models: A survey of unlearning methods](https://link.springer.com/article/10.1007/s10462-024-11078-6) | 2025 | Artificial Intelligence Review | \ |
 [Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) | 2025 | Nature Machine Intelligence | \
 [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/html/2503.01854v1) | 2025 | arxiv | \ |
-[The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning](https://proceedings.mlr.press/v235/li24bc.html) | 2024 | ICML | [code](https://github.com/centerforaisafety/wmdp) 
-[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | [code](https://github.com/zjunlp/KnowUnDo?utm_source=catalyzex.com)
-[RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \ |
 [Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.559/) | 2024 | Findings of the Association for Computational Linguistics: ACL | \
 [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024 | arxiv | \ |
 [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) | 2024 | arxiv | \ |
 [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766) | 2023 | arxiv | \
+
+
+## Benchmark:
+| Paper Title | Year | Venue | Code |
+| ------------- | :-------------: | :-------------: | :-------------: |
+[Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](https://openreview.net/forum?id=wUtCieKuQU) | 2025 | ICLR | [code](https://github.com/tmlr-group/Unlearning-with-Control) |
+[The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning](https://proceedings.mlr.press/v235/li24bc.html) | 2024 | ICML | [code](https://github.com/centerforaisafety/wmdp) 
+[RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \ |
+[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | [code](https://github.com/zjunlp/KnowUnDo?utm_source=catalyzex.com)
 Multimodal: | \ | \ | \ |
 [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108) | 2025 | NAACL | [code](https://github.com/franciscoliu/MLLMU-Bench?tab=readme-ov-file)
 [PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2503.12545) | 2025 | arxiv | \ |
 [Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS) | 2024 | TMLR | \ |
-
 
 ## LLM:
 | Paper Title | Year | Venue | Code |
