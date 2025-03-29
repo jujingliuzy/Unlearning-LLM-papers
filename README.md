@@ -7,8 +7,9 @@
 [Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) | 2025 | Nature Machine Intelligence | \
 [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/html/2503.01854v1) | 2025 | arxiv | \ |
 [The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning](https://proceedings.mlr.press/v235/li24bc.html) | 2024 | ICML | [code](https://github.com/centerforaisafety/wmdp) 
-[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | \
+[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | [code](https://github.com/zjunlp/KnowUnDo?utm_source=catalyzex.com)
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) | 2024 | NeurIPS Datasets and Benchmarks | \ |
+[Deciphering the Impact of Pretraining Data on Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.559/) | 2024 | Findings of the Association for Computational Linguistics: ACL | \
 [Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](https://arxiv.org/abs/2404.01206) | 2024 | arxiv | \ |
 [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) | 2024 | arxiv | \ |
 [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766) | 2023 | arxiv | \
@@ -26,7 +27,7 @@ Multimodal: | \ | \ | \ |
 [In-Context Unlearning: Language Models as Few-Shot Unlearners](https://proceedings.mlr.press/v235/pawelczyk24a.html) | 2024 | ICML | \
 [Large Language Model Unlearning via Embedding-Corrupted Prompts](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d6359156e0e30b1caa116a4306b12688-Abstract-Conference.html) | 2024 | NIPS | [code](https://github.com/chrisliu298/llm-unlearn-eco)
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
-[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | \
+[To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | [code](https://github.com/zjunlp/KnowUnDo?utm_source=catalyzex.com)
 [Towards Safer Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.107/) | 2024 | Findings of the Association for Computational Linguistics: ACL | \
 [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://openreview.net/forum?id=MXLBXjQkmb#discussion) | 2024 | COLM | \
 [TOFU: A Task of Fictitious Unlearning for LLMs](https://openreview.net/forum?id=P8seBluN3c) | 2024 | NeurIPS 2024 Workshop Red Teaming GenAI | \
