@@ -34,6 +34,7 @@ Multimodal: | \ | \ | \ |
 [Large Language Model Unlearning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html) | 2024 | NIPS | \
 [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/) | 2024 |EMNLP | [code](https://github.com/zjunlp/KnowUnDo?utm_source=catalyzex.com)
 [Dissecting Fine-Tuning Unlearning in Large Language Models](https://aclanthology.org/2024.emnlp-main.228/) | 2024 | EMNLP | [code](https://github.com/yihuaihong/Dissecting-FT-Unlearning)
+[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://aclanthology.org/2024.emnlp-main.245/) | 2024 | EMNLP | [code](https://github.com/OPTML-Group/SOUL)
 [Towards Safer Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.107/) | 2024 | Findings of the Association for Computational Linguistics: ACL | \
 [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://openreview.net/forum?id=MXLBXjQkmb#discussion) | 2024 | COLM | \
 [Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models](https://openreview.net/forum?id=1AWLjICe5P) | 2024 | NeurIPS Workshop AFM | \
