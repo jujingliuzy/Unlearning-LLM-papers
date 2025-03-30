@@ -44,6 +44,8 @@ Multimodal: | \ | \ | \ |
 [Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329) | 2024 | arxiv | \
 [RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models](https://arxiv.org/abs/2406.01983) | 2024 | arxiv | \
 [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | EMNLP | \
+[Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://aclanthology.org/2023.acl-long.805/) | 2023 | 
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) | \
 [Who’s Harry Potter? Approximate Unlearning for LLMs](https://openreview.net/forum?id=PDct7vrcvT) | 2023 | arxiv | \
 
 
